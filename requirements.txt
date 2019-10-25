@@ -1,0 +1,9 @@
+wheel
+PyQt5
+numpy
+pillow
+pyglet
+pymunk 
+vispy 
+keras 
+tensorflow
