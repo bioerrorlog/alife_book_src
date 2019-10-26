@@ -10,8 +10,8 @@ import game_of_life_patterns
 # visualizerの初期化 (Appendix参照)
 visualizer = MatrixVisualizer()
 
-WIDTH = 50
-HEIGHT = 50
+WIDTH = 200
+HEIGHT = 200
 
 state = np.zeros((HEIGHT,WIDTH), dtype=np.int8)
 next_state = np.empty((HEIGHT,WIDTH), dtype=np.int8)
